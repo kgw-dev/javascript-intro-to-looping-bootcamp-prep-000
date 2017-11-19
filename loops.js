@@ -18,4 +18,7 @@ return ("done")
 }
 
 function doWhileLoop (array) {
-}
+  do {
+    ;
+  } while (number > 0);
+  }
